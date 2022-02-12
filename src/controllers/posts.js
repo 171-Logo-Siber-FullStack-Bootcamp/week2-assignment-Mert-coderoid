@@ -1,3 +1,4 @@
+// import posts data
 const posts = require("../data/posts.json");
 
 getAllPosts = () => {
